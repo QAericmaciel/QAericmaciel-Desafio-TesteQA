@@ -24,4 +24,3 @@ O projeto consiste em fazer um teste funcional no site de busca de compras conhe
 
    | Uma forma resumida e simples para quem não entende programação!! |
 
-Funcionalidades Usadas: Java 11 | Cucumber | Selenium WebDriver | Junit | Linguagem Gherkin | BDD |
