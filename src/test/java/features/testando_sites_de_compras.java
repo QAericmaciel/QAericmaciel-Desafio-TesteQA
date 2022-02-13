@@ -1,3 +1,4 @@
+
 #language: pt
 
 Funcionalidade: Buscando Produtos nas Americanas
@@ -14,3 +15,5 @@ Funcionalidade: Buscando Produtos nas Americanas
       | "https://www.americanas.com.br/" | "Smartphone Samsung Galaxy A70"  | "R$ 1.309,00" | ""                |
       | "https://www.americanas.com.br/" | "Smartphone Motorola One Vision" | "R$ 2.169,90" | ""                |
       | "https://www.americanas.com.br/" | "Smartphone Xiaomi Redmi Note 7" | "R$ 1.999,99" | ""                |
+        
+        
