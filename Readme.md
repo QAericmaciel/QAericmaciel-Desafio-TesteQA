@@ -1,13 +1,9 @@
 
-# Projeto Buscando-Produtos
-
-# Teste Automatiado Web no buscar do site www.americanas.com.br
-
 # Esse projeto foi feito para fins de conhecimentos!!
 
 ## O QUE ESSE PROJETO FAZ?
 
-Este projeto consiste em fazer um teste Automatizado Web no site: "https://www.americanas.com.br/" E-commerce com objetivo principal em saber se o *buscar* esta funcionando da maneira correta. Para que o usuario não tenha uma má experiencia!!
+Este projeto consiste em fazer um teste Automatizado Web no site: "https://www.americanas.com.br/" E-commerce com objetivo principal em saber se o *buscar* esta pesquisando da maneira correta. Para que o usuario não tenha uma má experiencia!!
 
 
  # | Procedimento para que você entenda abaixo |
@@ -20,7 +16,7 @@ Este projeto consiste em fazer um teste Automatizado Web no site: "https://www.a
     Entao o produto buscado deve aparecer <valor_a_vista> <valor_do_cashback>
 
 
-| Forma muito simples para quem não entende programação!! |
+ # | Forma muito simples para quem não entende programação!! |
 
 # Instruções:
 
